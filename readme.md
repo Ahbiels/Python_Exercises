@@ -14,4 +14,13 @@ Brincar com o nome e idade da pessoa
     - Vendo a primeira e última letra do nome
     - Convertendo a idade para binário e para hexadecimal
       - Em binário usando o 2: para aparecer apenas os valores
+    
+### Exercicio 3
+Brincando com alguns métodos.
+- Tecnicas utilizadas
+  - ***isdigit*** para verificar se o valor é um número
+  - % para verificar se o valor é ímpar ou pâr
+  - A lib datetime para extrair a hora do computador
+  - fatiamento de string para poder pegar uma parte da hora
+  - método ***system*** da lib ***os*** para limpar a tela
 
