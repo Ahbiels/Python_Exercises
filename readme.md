@@ -35,3 +35,13 @@ Calculadora
     - **reaplce**: troca um valor por outro
     - **startswith**: verifica se a string começa com uma letra e retorna True
 
+### Exercicio 5
+Contador da maior quantidade de letras em uma frase
+- Tecnicas utilizadas
+  - **count**: para contar a quantidade de letras que tem dentro de uma frase
+  ```py
+   if qtd_apareceu_mais_vezes < qtd_apareceu_mais_vezes_atual:
+        qtd_apareceu_mais_vezes = qtd_apareceu_mais_vezes_atual
+        letra_apareceu_mais_vezes = letra_atual
+  ```
+  - Se a contagem atual de letra_atual (qtd_apareceu_mais_vezes_atual) for maior que qtd_apareceu_mais_vezes, o programa atualiza qtd_apareceu_mais_vezes com esse novo valor máximo e atualiza letra_apareceu_mais_vezes para letra_atual, pois agora essa é a letra que apareceu mais vezes até o momento.
