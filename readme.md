@@ -24,3 +24,14 @@ Brincando com alguns métodos.
   - fatiamento de string para poder pegar uma parte da hora
   - método ***system*** da lib ***os*** para limpar a tela
 
+### Exercicio 4
+Calculadora
+- Tecnicas utilizadas
+  - try e except
+    - Usei o **Exception as err** dentro do except para poder ver a exceção criada
+  - **eval** para poder realizar a operação matemática
+  - Métodos de string
+    - **lower**: converte tudo para minisculo
+    - **reaplce**: troca um valor por outro
+    - **startswith**: verifica se a string começa com uma letra e retorna True
+
