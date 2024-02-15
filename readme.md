@@ -45,3 +45,8 @@ Contador da maior quantidade de letras em uma frase
         letra_apareceu_mais_vezes = letra_atual
   ```
   - Se a contagem atual de letra_atual (qtd_apareceu_mais_vezes_atual) for maior que qtd_apareceu_mais_vezes, o programa atualiza qtd_apareceu_mais_vezes com esse novo valor máximo e atualiza letra_apareceu_mais_vezes para letra_atual, pois agora essa é a letra que apareceu mais vezes até o momento.
+
+### Exercicio 6
+Jogo da forca
+- Algorítmo para converter os traços em letras na tela
+  
