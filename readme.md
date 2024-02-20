@@ -49,4 +49,13 @@ Contador da maior quantidade de letras em uma frase
 ### Exercicio 6
 Jogo da forca
 - Algorítmo para converter os traços em letras na tela
+
+### Exercicio 7
+Lista de compras
+- Tecnicas utilizadas
+  - try... except para pegar as exceções
+    - Pegar cada exceção em um except
+  - **capitalize_list = [item.capitalize() for item in list]** para colocar todos os itens da lista com a primeira letra maíuscula
+  - **enumerate** para pegar os index de uma lista
+  - Métodos de crud em uma lista (adcionar, visualizar e deletar)
   
