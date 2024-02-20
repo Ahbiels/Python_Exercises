@@ -58,4 +58,11 @@ Lista de compras
   - **capitalize_list = [item.capitalize() for item in list]** para colocar todos os itens da lista com a primeira letra maíuscula
   - **enumerate** para pegar os index de uma lista
   - Métodos de crud em uma lista (adcionar, visualizar e deletar)
+
+### Exercicio 8
+Validação de CPF
+- Tecnicas utilizadas
+  - **split e replace** para pegar os 9 primeiros números do cpf sem os pontos ('.')
+  - Lógica matemática
+  - Formatação com f-string para o padrão xxx.xxx.xxx-xx
   
