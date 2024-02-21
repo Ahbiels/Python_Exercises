@@ -65,4 +65,9 @@ Validação de CPF
   - **split e replace** para pegar os 9 primeiros números do cpf sem os pontos ('.')
   - Lógica matemática
   - Formatação com f-string para o padrão xxx.xxx.xxx-xx
+
+### Exercicio 9
+gerador de CPF
+- Tecnicas utilizadas
+  - Módulo de **random** para sortear números aleatórios
   
