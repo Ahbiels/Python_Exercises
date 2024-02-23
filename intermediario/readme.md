@@ -9,3 +9,9 @@ Multiplicar todos os números de uma tupla e mostrar se é par ou não
   - Try... except
   - List e Tuple
     - Conversão de tuple para list, retirada de vírgulas, e conversão de list para tuple novamente
+
+### exercicio 2
+Multiplica por 2, 3 e 4 um valor através das closure
+- Tecnicas utilizadas
+  - funções que retornam outras funções
+    - Closure

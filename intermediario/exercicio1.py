@@ -7,7 +7,7 @@ def mult(*args):
     for item in args:
         total *= item #Multiplica todos os itens da tupla
 
-    def impar_par(value): #Funcao que diz se o número é ímpar ou par
+    def impar_par(value): #Função que diz se o número é ímpar ou par
         if value%2 == 0:
             return True
         return False
