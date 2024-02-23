@@ -15,3 +15,12 @@ Multiplica por 2, 3 e 4 um valor através das closure
 - Tecnicas utilizadas
   - funções que retornam outras funções
     - Closure
+
+### exercicio 3
+Um quiz simples onde mostra se eu acertei ou errei a questao
+- Tecnicas utilizadas
+  - funções que retornam outras funções
+  - Dicionário
+  - **raise** para gerar um erro
+  - global para calcular o score
+  - 
