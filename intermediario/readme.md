@@ -23,4 +23,8 @@ Um quiz simples onde mostra se eu acertei ou errei a questao
   - Dicionário
   - **raise** para gerar um erro
   - global para calcular o score
-  - 
+
+### exercicio 4
+Um programa que retira os valores duplicados de uma lista e mostra esses valores
+- Tecnicas utilizadas
+  - set
